@@ -2,6 +2,8 @@
 
 Este script extrae información de precios de libros desde una página web específica y guarda los datos en un archivo CSV. Cada vez que se ejecuta, el script añade nuevas entradas y actualiza las existentes, manteniendo un registro histórico de los precios.
 
+¡Las listas deben ser públicas!
+
 ## Requisitos
 
 - Python 3.x
